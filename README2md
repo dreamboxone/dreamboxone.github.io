@@ -1,15 +1,7 @@
-[🌐 باز کردن Mihomo Constructor](https://raywari.github.io/mihomo-constructor/)
 
-**زبان‌های README:**
+# Mihomo Builder
 
-- **English** — [https://github.com/raywari/mihomo-constructor/blob/main/README.md](https://github.com/raywari/mihomo-constructor/blob/main/README.md)
-- **Русский** — [https://github.com/raywari/mihomo-constructor/blob/main/README_RU.md](https://github.com/raywari/mihomo-constructor/blob/main/README_RU.md)
-- **中文 (Chinese)** — [https://github.com/raywari/mihomo-constructor/blob/main/README_ZH.md](https://github.com/raywari/mihomo-constructor/blob/main/README_ZH.md)
-- **فارسی (Persian / Iranian)** — [https://github.com/raywari/mihomo-constructor/blob/main/README_FA.md](https://github.com/raywari/mihomo-constructor/blob/main/README_FA.md)
-
-# Mihomo Constructor
-
-یک سازندهٔ کانفیگ فقط-فرانت‌اند برای Clash/Mihomo که تمرکزش روی رابط کاربری تصویری و خروجی YAML تمیز است، تا لازم نباشد تکه‌های کانفیگ را دستی کپی‌پیست کنید.
+کانفیگ ساز برای Clash/Mihomo که تمرکزش روی رابط کاربری تصویری و خروجی YAML تمیز است، تا لازم نباشد تکه‌های کانفیگ را دستی کپی‌پیست کنید.
 
 این ابزار وقتی عالی است که کلی لینک پراکسی و اشتراک نامرتب از چندین ارائه‌دهنده مختلف دارید و می‌خواهید بدون دست‌زدن دستی به YAML، یک کانفیگ یکپارچه و تمیز Clash/Mihomo داشته باشید.
 
